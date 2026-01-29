@@ -1,0 +1,26 @@
+# Core Dependencies
+tensorflow>=2.13.0
+numpy>=1.24.0
+pandas>=2.0.0
+pillow>=10.0.0
+
+# Streamlit and Visualization
+streamlit>=1.28.0
+plotly>=5.17.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Model Training (optional - only needed for training)
+scikit-learn>=1.3.0
+keras-tuner>=1.4.0
+
+# Jupyter Notebook (optional - for development)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Image Processing
+opencv-python>=4.8.0
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3

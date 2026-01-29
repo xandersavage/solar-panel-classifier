@@ -1,0 +1,194 @@
+[
+  {
+    "timestamp": "2026-01-28T14:51:58.576463",
+    "image": "Clean (76).jpg",
+    "prediction": "Electrical-damage",
+    "confidence": 0.5171396136283875
+  },
+  {
+    "timestamp": "2026-01-28T14:54:04.890166",
+    "image": "Clean (53).jpg",
+    "prediction": "Electrical-damage",
+    "confidence": 0.5637754797935486
+  },
+  {
+    "timestamp": "2026-01-28T14:54:33.591173",
+    "image": "Bird (4).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.7032642364501953
+  },
+  {
+    "timestamp": "2026-01-29T10:24:18.609777",
+    "image": "Snow (7).jpg",
+    "prediction": "Snow-Covered",
+    "confidence": 0.9856411814689636
+  },
+  {
+    "timestamp": "2026-01-29T10:25:25.785253",
+    "image": "getXMLobject.png",
+    "prediction": "Dusty",
+    "confidence": 0.9249533414840698
+  },
+  {
+    "timestamp": "2026-01-29T10:27:29.182361",
+    "image": "images.jpg",
+    "prediction": "Dusty",
+    "confidence": 0.743208646774292
+  },
+  {
+    "timestamp": "2026-01-29T10:28:16.668436",
+    "image": "images (1).jpg",
+    "prediction": "Dusty",
+    "confidence": 0.9614861607551575
+  },
+  {
+    "timestamp": "2026-01-29T10:29:13.869173",
+    "image": "images (2).jpg",
+    "prediction": "Dusty",
+    "confidence": 0.8213036060333252
+  },
+  {
+    "timestamp": "2026-01-29T10:30:30.629614",
+    "image": "images (3).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.7733950018882751
+  },
+  {
+    "timestamp": "2026-01-29T10:31:23.322541",
+    "image": "images (4).jpg",
+    "prediction": "Dusty",
+    "confidence": 0.667478621006012
+  },
+  {
+    "timestamp": "2026-01-29T10:32:16.540027",
+    "image": "download.jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.951522171497345
+  },
+  {
+    "timestamp": "2026-01-29T10:33:11.626196",
+    "image": "download (2).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.9830051064491272
+  },
+  {
+    "timestamp": "2026-01-29T10:33:28.701421",
+    "image": "download (1).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.9979343414306641
+  },
+  {
+    "timestamp": "2026-01-29T10:34:37.630476",
+    "image": "download (5).jpg",
+    "prediction": "Dusty",
+    "confidence": 0.9818972945213318
+  },
+  {
+    "timestamp": "2026-01-29T10:34:55.626949",
+    "image": "download (4).jpg",
+    "prediction": "Physical-Damage",
+    "confidence": 0.5340933799743652
+  },
+  {
+    "timestamp": "2026-01-29T10:35:16.524883",
+    "image": "download (4).jpg",
+    "prediction": "Physical-Damage",
+    "confidence": 0.5340933799743652
+  },
+  {
+    "timestamp": "2026-01-29T10:35:26.905517",
+    "image": "download (3).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.8973609209060669
+  },
+  {
+    "timestamp": "2026-01-29T10:35:41.450969",
+    "image": "download (3).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.8973609209060669
+  },
+  {
+    "timestamp": "2026-01-29T10:35:44.697435",
+    "image": "download (3).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.8973609209060669
+  },
+  {
+    "timestamp": "2026-01-29T10:37:05.932206",
+    "image": "images (7).jpg",
+    "prediction": "Dusty",
+    "confidence": 0.8685520887374878
+  },
+  {
+    "timestamp": "2026-01-29T10:37:25.516945",
+    "image": "images (6).jpg",
+    "prediction": "Physical-Damage",
+    "confidence": 0.7943421602249146
+  },
+  {
+    "timestamp": "2026-01-29T10:37:48.203175",
+    "image": "images (5).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.5813274383544922
+  },
+  {
+    "timestamp": "2026-01-29T10:39:05.798514",
+    "image": "images (5).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.5813274383544922
+  },
+  {
+    "timestamp": "2026-01-29T10:39:14.086908",
+    "image": "images (8).jpg",
+    "prediction": "Electrical-damage",
+    "confidence": 0.4422800838947296
+  },
+  {
+    "timestamp": "2026-01-29T10:40:33.885675",
+    "image": "download (6).jpg",
+    "prediction": "Electrical-damage",
+    "confidence": 0.9052996635437012
+  },
+  {
+    "timestamp": "2026-01-29T10:41:34.194160",
+    "image": "images (9).jpg",
+    "prediction": "Dusty",
+    "confidence": 0.5625891089439392
+  },
+  {
+    "timestamp": "2026-01-29T10:41:44.620340",
+    "image": "download (8).jpg",
+    "prediction": "Dusty",
+    "confidence": 0.9279683828353882
+  },
+  {
+    "timestamp": "2026-01-29T10:41:58.321691",
+    "image": "download (7).jpg",
+    "prediction": "Bird-drop",
+    "confidence": 0.4399203062057495
+  },
+  {
+    "timestamp": "2026-01-29T10:42:59.319394",
+    "image": "download (13).jpg",
+    "prediction": "Snow-Covered",
+    "confidence": 0.9980593323707581
+  },
+  {
+    "timestamp": "2026-01-29T10:43:20.317531",
+    "image": "download (12).jpg",
+    "prediction": "Snow-Covered",
+    "confidence": 0.6411715745925903
+  },
+  {
+    "timestamp": "2026-01-29T10:43:40.456317",
+    "image": "download (11).jpg",
+    "prediction": "Snow-Covered",
+    "confidence": 0.999824583530426
+  },
+  {
+    "timestamp": "2026-01-29T10:44:04.194653",
+    "image": "download (10).jpg",
+    "prediction": "Snow-Covered",
+    "confidence": 0.8990180492401123
+  }
+]
