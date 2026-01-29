@@ -17,7 +17,7 @@ import json
 import os
 
 # Import configuration
-from config import (
+from app_config import (
     MODEL_PATH, IMG_SIZE, CLASSES, CLASS_DESCRIPTIONS,
     SEVERITY_LEVELS, RECOMMENDED_ACTIONS, SEVERITY_COLORS,
     APP_TITLE, APP_ICON, PAGE_LAYOUT, AUTHOR, VERSION,
