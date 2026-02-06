@@ -9,7 +9,7 @@
 
 **AI-powered solar panel defect detection using deep learning**
 
-[Live Demo](#) | [Report Bug](https://github.com/yourusername/solar-panel-classifier/issues) | [Request Feature](https://github.com/yourusername/solar-panel-classifier/issues)
+[Live Demo](https://solar-panel-classifier.streamlit.app/) | [Report Bug](https://github.com/yourusername/solar-panel-classifier/issues) | [Request Feature](https://github.com/yourusername/solar-panel-classifier/issues)
 
 </div>
 
